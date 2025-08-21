@@ -1,0 +1,31 @@
+{
+  "name": "create-ts-express",
+  "version": "1.0.0",
+  "description": "Express project generator with TypeScript and Nodemon",
+  "main": "bin/cli.js",
+  "bin": {
+    "crear-express-app": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "node bin/cli.js",
+    "start": "node bin/cli.js"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "generator",
+    "cli",
+    "nodemon",
+    "scaffold",
+    "boilerplate",
+    "template"
+  ],
+  "author": "Lucas Ricci",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.0",
+    "fs-extra": "^11.3.1",
+    "inquirer": "^12.9.3"
+  }
+}
