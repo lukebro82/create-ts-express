@@ -11,7 +11,7 @@ npm install -g create-ts-express
 ## Uso
 
 ```bash
-crear-express-app
+npx create-express-app
 ```
 
 ## ¿Qué incluye?

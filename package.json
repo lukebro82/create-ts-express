@@ -4,7 +4,7 @@
   "description": "Express project generator with TypeScript and Nodemon",
   "main": "bin/cli.js",
   "bin": {
-    "crear-express-app": "./bin/cli.js"
+    "create-express-app": "./bin/cli.js"
   },
   "scripts": {
     "test": "node bin/cli.js",
